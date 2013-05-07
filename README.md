@@ -1,4 +1,8 @@
-stamp-trooper
+#Business Week 2013 // ESGI
 =============
+##Stamp Trooper
 
-Business Week 2013 // ESGI
+###feat. Patoche le Postier
+![alt text](https://raw.github.com/pgrimaud/stamp-trooper/master/Res/styles/default/images/success.png "Patoche rpz")
+
+
